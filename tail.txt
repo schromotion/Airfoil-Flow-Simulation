@@ -1,0 +1,7 @@
+0.5	% Root chord relative to wing root chord
+4.0	% Span relative to tail chord
+0.8	% Taper ratio
+0.0	% Quarter chord sweep
+0.1	% Max thickness relative to the tail chord
+5.0	% Tail location relative to root chord
+-3.0	% Tail incidence

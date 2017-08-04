@@ -1,0 +1,6 @@
+2.0	% Root chord
+6.0	% Span relative to root chord
+0.3	% Taper ratio
+5.0	% Quarter chord sweep
+0.1	% Max thickness relative to root chord
+-0.25	% CG relative to root chord
